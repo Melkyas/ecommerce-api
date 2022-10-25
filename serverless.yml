@@ -11,8 +11,8 @@ custom:
   table1: 'orders'
   table2: 'products'
   bucket: 'sp-ecommerce-fullstack'
-  aws-access-id: 'AKIAWYY2JS453WQJ3J4R'
-  aws-secret-access-key: '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'
+  aws-access-id: ''
+  aws-secret-access-key: ''
 
 provider:
   name: aws
